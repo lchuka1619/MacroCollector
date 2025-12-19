@@ -1,0 +1,4 @@
+requests
+pandas
+azure-storage-file-datalake
+azure.identity
